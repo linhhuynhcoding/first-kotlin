@@ -2,4 +2,5 @@
 
 ## Screenshot
 
-<img src="./img.png" />
+
+<img src="./img.png" width="800px" height="800px" />
