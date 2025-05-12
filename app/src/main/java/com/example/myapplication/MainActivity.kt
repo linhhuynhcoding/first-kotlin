@@ -148,7 +148,7 @@ fun Profile(modifier: Modifier) {
             )
         )
         Text(
-            text = "Fullsack Developer",
+            text = "Fullstack Developer",
             fontSize = 22.sp,
             fontWeight = FontWeight.Light
         )

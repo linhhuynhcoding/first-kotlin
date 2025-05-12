@@ -1,4 +1,5 @@
 # Bài tập Buổi 1
 
 ## Screenshot
-![img.png](img.png)
+
+<img src="./img.png" />
