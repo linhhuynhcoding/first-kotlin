@@ -3,4 +3,4 @@
 ## Screenshot
 
 
-<img src="./img.png" width="800px" height="800px" />
+<img src="./img.png" height="800px" />
