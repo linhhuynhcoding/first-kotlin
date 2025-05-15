@@ -80,7 +80,7 @@ fun MyApp() {
 
     Scaffold(
         modifier = Modifier.fillMaxSize(),
-        containerColor = Color(0xFFEFFFED),
+        containerColor = Color(0xFFF6FFF5),
         topBar = {
 
             Row(
@@ -132,13 +132,13 @@ fun Profile(modifier: Modifier) {
         modifier = Modifier.fillMaxSize(),
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.spacedBy(
-            18.dp,
+            12.dp,
             alignment = Alignment.CenterVertically
         ),
     ) {
         Avatar(modifier = Modifier)
         Text(
-            text = "Linh Huỳnh Coding",
+            text = "Huỳnh Vũ Nhật Linh",
             fontSize = 32.sp,
             fontWeight = FontWeight.Bold,
             style = TextStyle(
@@ -148,7 +148,7 @@ fun Profile(modifier: Modifier) {
             )
         )
         Text(
-            text = "Fullstack Developer",
+            text = "HCMC",
             fontSize = 22.sp,
             fontWeight = FontWeight.Light
         )
